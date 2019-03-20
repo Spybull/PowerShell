@@ -48,5 +48,5 @@ function New-wAppointment {
 }
 
 #How to call This function:
-#You can change the principal name to SID or e-mail in 26 row!
+#You can change the principal name to SID or e-mail in 26 row.
 #New-wAppointment -PrincipalName $princ.UserPrincipalName -Subject "I am on vacation" -DateStart $date1  -DateEnd "$date2 23:59"
